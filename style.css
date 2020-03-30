@@ -138,22 +138,18 @@ body {
     align-items: center;
     justify-content: center;  
     width: 100%;
-    
   }
   .single-img{
     padding:0 20px 20px;
-    width: 66%;
-    background-color: rgb(240, 199, 86);
+    width: 50%;
+    background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
-    align-items: center;
-    text-align: center;
   }
   img:hover{
     opacity: .5;
     transition: .9s;
   }
-  
   
   
  
